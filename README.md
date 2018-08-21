@@ -4,31 +4,31 @@
 
 # 文件结构
 
-├── README.md
-├── build
-│   ├── build.js
-│   ├── check-versions.js
-│   ├── dev-client.js
-│   ├── dev-server.js
-│   ├── utils.js
-│   ├── vue-loader.conf.js
-│   ├── webpack.base.conf.js
-│   ├── webpack.dev.conf.js
-│   └── webpack.prod.conf.js
-├── config
-│   ├── dev.env.js
-│   ├── index.js
-│   └── prod.env.js
-├── package.json
-├── src
-│   ├── assets
-│   │   └── logo.png
-│   ├── components
-│   │   ├── Hello.vue
-│   │   └── cell.vue
-│   └── pages
-│       ├── file
-│       │   ├── file.html
+├── README.md <br />
+├── build <br />
+│   ├── build.js<br />
+│   ├── check-versions.js<br />
+│   ├── dev-client.js<br />
+│   ├── dev-server.js<br />
+│   ├── utils.js<br />
+│   ├── vue-loader.conf.js<br />
+│   ├── webpack.base.conf.js<br />
+│   ├── webpack.dev.conf.js<br />
+│   └── webpack.prod.conf.js<br />
+├── config<br />
+│   ├── dev.env.js<br />
+│   ├── index.js<br />
+│   └── prod.env.js<br />
+├── package.json<br />
+├── src<br />
+│   ├── assets<br />
+│   │   └── logo.png<br />
+│   ├── components<br />
+│   │   ├── Hello.vue<br />
+│   │   └── cell.vue<br />
+│   └── pages<br />
+│       ├── file<br />
+│       │   ├── file.html<br />
 │       │   ├── file.js
 │       │   └── file.vue
 │       └── index
