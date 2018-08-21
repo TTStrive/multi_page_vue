@@ -231,12 +231,12 @@ new Vue({<br />
 # 页面跳转
 最开始写的是：<br />
 
- <!-- index.html --><br />
-<a href='../file/file.html'></a><br />
+" <!-- index.html -->"<br />
+"<a href='../file/file.html'></a>"<br />
 
 改成这样既可：<br />
 
- <!-- index.html --><br />
-<a href='cell.html'></a><br />
+ "<!-- index.html -->"<br />
+"<a href='cell.html'></a>"<br />
 
 这样他就会自己找file.html这个文件。<br />
